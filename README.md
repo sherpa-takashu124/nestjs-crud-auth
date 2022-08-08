@@ -25,6 +25,9 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+nestjs-crud-auth
+simple create , read, update, delete operation with basic json web token authentication 
+validate user from token.
 
 ## Installation
 
